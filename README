@@ -1,0 +1,7 @@
+Someone asked me how to get lines printed on stdout and stderr by a C lib
+used in Python code.
+
+It seems the only way to run it in a child process,
+and capture its streams.
+
+Here the proof-of-concept.
