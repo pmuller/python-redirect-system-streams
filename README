@@ -4,4 +4,4 @@ used in Python code.
 It seems the only way to run it in a child process,
 and capture its streams.
 
-Here the proof-of-concept.
+This is the proof-of-concept.
